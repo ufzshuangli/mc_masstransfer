@@ -1,0 +1,160 @@
+""	"Kingdom"	"Phylum"	"Class"	"Order"	"Family"	"Genus"	"Species"
+"ASV0021"	"Bacteria"	"Actinobacteria"	"Actinobacteria"	"Micrococcales"	"Micrococcaceae"	"Rothia"	NA
+"ASV0037"	"Bacteria"	"Firmicutes"	"Clostridia"	"Clostridiales"	"Peptostreptococcaceae"	"Acetoanaerobium"	NA
+"ASV0056"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Sphingobacteriales"	"env.OPS 17"	"Unassigned"	NA
+"ASV0057"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Pseudomonadales"	"Moraxellaceae"	"Acinetobacter"	NA
+"ASV0115"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Pseudomonadales"	"Moraxellaceae"	"Enhydrobacter"	NA
+"ASV0172"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Sphingobacteriales"	"Sphingobacteriaceae"	"Pedobacter"	NA
+"ASV0202"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Unassigned"	"uncultured Oceanibaculum sp."	"uncultured Oceanibaculum sp."	NA
+"ASV0203"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Variovorax"	NA
+"ASV0222"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Rhodocyclaceae"	"Azospira"	NA
+"ASV0254"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Sphingomonadales"	"Sphingomonadaceae"	"Novosphingobium"	NA
+"ASV0274"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Azospirillales"	"Azospirillaceae"	"Azospirillum"	NA
+"ASV0293"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Flavobacteriales"	"Crocinitomicaceae"	"Fluviicola"	NA
+"ASV0328"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rickettsiales"	"AB1"	"Unassigned"	NA
+"ASV0335"	"Bacteria"	"Actinobacteria"	"Actinobacteria"	"Micrococcales"	"Microbacteriaceae"	"Leucobacter"	NA
+"ASV0350"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Flavobacteriales"	"Flavobacteriaceae"	"Flavobacterium"	NA
+"ASV0387"	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Carnobacteriaceae"	"Trichococcus"	NA
+"ASV0427"	"Bacteria"	"Verrucomicrobia"	"Verrucomicrobiae"	"Verrucomicrobiales"	"Verrucomicrobiaceae"	"Unassigned"	NA
+"ASV0428"	"Bacteria"	"Patescibacteria"	"Saccharimonadia"	"Saccharimonadales"	"Saccharimonadaceae"	"Unassigned"	NA
+"ASV0436"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rickettsiales"	"Midichloriaceae"	"Candidatus Jidaibacter"	NA
+"ASV0462"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Flavobacteriales"	"Weeksellaceae"	"Empedobacter"	NA
+"ASV0473"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Elsterales"	"Elsteraceae"	"Elstera"	NA
+"ASV0482"	"Bacteria"	"Dependentiae"	"Babeliae"	"Babeliales"	"Vermiphilaceae"	"Unassigned"	NA
+"ASV0487"	"Bacteria"	"Proteobacteria"	"Deltaproteobacteria"	"Oligoflexales"	"0319-6G20"	"Unassigned"	NA
+"ASV0506"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Cytophagales"	"Spirosomaceae"	"Persicitalea"	NA
+"ASV0525"	"Bacteria"	"Firmicutes"	"Bacilli"	"Bacillales"	"Planococcaceae"	"Lysinibacillus"	NA
+"ASV0530"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Steroidobacterales"	"Steroidobacteraceae"	"Steroidobacter"	NA
+"ASV0559"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Pseudacidovorax"	NA
+"ASV0570"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Pelomonas"	NA
+"ASV0574"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Herminiimonas"	NA
+"ASV0582"	"Bacteria"	"WPS-2"	"hydrothermal vent metagenome"	"hydrothermal vent metagenome"	"hydrothermal vent metagenome"	"hydrothermal vent metagenome"	NA
+"ASV0588"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Enterobacteriales"	"Enterobacteriaceae"	"Enterobacter"	NA
+"ASV0589"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Chitinophagales"	"Chitinophagaceae"	"Terrimonas"	NA
+"ASV0607"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhodospirillales"	"Unassigned"	"Unassigned"	NA
+"ASV0628"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Chitinophagales"	"Chitinophagaceae"	"Taibaiella"	NA
+"ASV0634"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhodobacterales"	"Rhodobacteraceae"	"Gemmobacter"	NA
+"ASV0637"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Reyranellales"	"Reyranellaceae"	"Reyranella"	NA
+"ASV0643"	"Bacteria"	"Patescibacteria"	"Gracilibacteria"	"JGI 0000069-P22"	"Unassigned"	"Unassigned"	NA
+"ASV0724"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Caulobacterales"	"Hyphomonadaceae"	"Hirschia"	NA
+"ASV0747"	"Bacteria"	"Cyanobacteria"	"Sericytochromatia"	"uncultured Bacillales bacterium"	"uncultured Bacillales bacterium"	"uncultured Bacillales bacterium"	NA
+"ASV0758"	"Bacteria"	"Verrucomicrobia"	"Verrucomicrobiae"	"Verrucomicrobiales"	"Rubritaleaceae"	"Luteolibacter"	NA
+"ASV0769"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Competibacterales"	"Competibacteraceae"	"Candidatus Competibacter"	NA
+"ASV0802"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Diplorickettsiales"	"Diplorickettsiaceae"	"Unassigned"	NA
+"ASV0827"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Sphingomonadales"	"Sphingomonadaceae"	"Sphingosinicella"	NA
+"ASV0832"	"Bacteria"	"Actinobacteria"	"Actinobacteria"	"Micrococcales"	"Microbacteriaceae"	"Microbacterium"	NA
+"ASV0833"	"Bacteria"	"Firmicutes"	"Bacilli"	"Bacillales"	"Paenibacillaceae"	"Aneurinibacillus"	NA
+"ASV0851"	"Bacteria"	"Patescibacteria"	"Saccharimonadia"	"Saccharimonadales"	"Saccharimonadaceae"	"Allorhizobium"	NA
+"ASV0853"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Azospirillales"	"Azospirillales Incertae Sedis"	"Stella"	NA
+"ASV0869"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Delftia"	NA
+"ASV0876"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Caulobacterales"	"Caulobacteraceae"	"Caulobacter"	NA
+"ASV0889"	"Bacteria"	"Verrucomicrobia"	"Verrucomicrobiae"	"Verrucomicrobiales"	"Verrucomicrobiaceae"	"Prosthecobacter"	NA
+"ASV0894"	"Bacteria"	"Bacteroidetes"	"Ignavibacteria"	"OPB56"	"Unassigned"	"Unassigned"	NA
+"ASV0913"	"Bacteria"	"Proteobacteria"	"Deltaproteobacteria"	"Myxococcales"	"Phaselicystidaceae"	"Phaselicystis"	NA
+"ASV0926"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhizobiales"	"Devosiaceae"	"Devosia"	NA
+"ASV0937"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Lautropia"	NA
+"ASV0942"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Neisseriaceae"	"Unassigned"	NA
+"ASV0952"	"Bacteria"	"Gemmatimonadetes"	"Gemmatimonadetes"	"Gemmatimonadales"	"Gemmatimonadaceae"	"Gemmatimonas"	NA
+"ASV1022"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Bordetella"	NA
+"ASV1051"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Sphingobacteriales"	"Sphingobacteriaceae"	"Sphingobacterium"	NA
+"ASV1075"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhizobiales"	"Rhizobiales Incertae Sedis"	"Bauldia"	NA
+"ASV1085"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Hydrogenophaga"	NA
+"ASV1113"	"Bacteria"	"Verrucomicrobia"	"Verrucomicrobiae"	"Chthoniobacterales"	"Chthoniobacteraceae"	"LD29"	NA
+"ASV1129"	"Bacteria"	"Acidobacteria"	"Blastocatellia (Subgroup 4)"	"Blastocatellales"	"Blastocatellaceae"	"Blastocatella"	NA
+"ASV1142"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Sneathiellales"	"Sneathiellaceae"	"Taonella"	NA
+"ASV1153"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Flavobacteriales"	"Weeksellaceae"	"Cloacibacterium"	NA
+"ASV1201"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhizobiales"	"Rhizobiaceae"	"Aquamicrobium"	NA
+"ASV1207"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Rhodocyclaceae"	"Thauera"	NA
+"ASV1235"	"Bacteria"	"Firmicutes"	"Clostridia"	"Clostridiales"	"Gracilibacteraceae"	"Lutispora"	NA
+"ASV1236"	"Bacteria"	"Chlamydiae"	"Chlamydiae"	"Chlamydiales"	"Parachlamydiaceae"	"Parachlamydia"	NA
+"ASV1252"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Sphingomonadales"	"Sphingomonadaceae"	"Sphingopyxis"	NA
+"ASV1276"	"Bacteria"	"Acidobacteria"	"Blastocatellia (Subgroup 4)"	"Blastocatellales"	"Blastocatellaceae"	"Unassigned"	NA
+"ASV1294"	"Bacteria"	"Proteobacteria"	"Deltaproteobacteria"	"Bdellovibrionales"	"Bdellovibrionaceae"	"Bdellovibrio"	NA
+"ASV1304"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Comamonas"	NA
+"ASV1410"	"Bacteria"	"Bacteroidetes"	"Ignavibacteria"	"OPB56"	"Candidatus Kapabacteria sp. 59-99"	"Candidatus Kapabacteria sp. 59-99"	NA
+"ASV1446"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Acidovorax"	NA
+"ASV1448"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"PLTA13"	"uncultured sludge bacterium"	"uncultured sludge bacterium"	NA
+"ASV1450"	"Bacteria"	"Proteobacteria"	"Deltaproteobacteria"	"Bdellovibrionales"	"Bacteriovoracaceae"	"Peredibacter"	NA
+"ASV1456"	"Bacteria"	"Firmicutes"	"Clostridia"	"Clostridiales"	"Lachnospiraceae"	"Tyzzerella"	NA
+"ASV1472"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Caulobacterales"	"Caulobacteraceae"	"Phenylobacterium"	NA
+"ASV1504"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Xanthomonadales"	"Xanthomonadaceae"	"Lysobacter"	NA
+"ASV1511"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Xanthomonadales"	"Rhodanobacteraceae"	"Dokdonella"	NA
+"ASV1525"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Diaphorobacter"	NA
+"ASV1538"	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Enterococcaceae"	"Enterococcus"	NA
+"ASV1584"	"Bacteria"	"Firmicutes"	"Bacilli"	"Bacillales"	"Bacillaceae"	"Bacillus"	NA
+"ASV1590"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Sphingomonadales"	"Sphingomonadaceae"	"Sphingomonas"	NA
+"ASV1593"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Sphingobacteriales"	"Sphingobacteriaceae"	"Unassigned"	NA
+"ASV1609"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhizobiales"	"Rhizobiaceae"	"Shinella"	NA
+"ASV1616"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Pseudomonadales"	"Moraxellaceae"	"Moraxella"	NA
+"ASV1667"	"Bacteria"	"Cyanobacteria"	"Sericytochromatia"	"uncultured soil bacterium"	"uncultured soil bacterium"	"uncultured soil bacterium"	NA
+"ASV1707"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhizobiales"	"A0839"	"Unassigned"	NA
+"ASV1712"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Enterobacteriales"	"Enterobacteriaceae"	"Raoultella"	NA
+"ASV1716"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Enterobacteriales"	"Enterobacteriaceae"	"Citrobacter"	NA
+"ASV1727"	"Bacteria"	"Firmicutes"	"Clostridia"	"Clostridiales"	"Clostridiaceae 1"	"Clostridium sensu stricto 13"	NA
+"ASV1798"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Pigmentiphaga"	NA
+"ASV1822"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"AAP99"	NA
+"ASV1840"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Xanthomonadales"	"Xanthomonadaceae"	"Pseudoxanthomonas"	NA
+"ASV1846"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Xanthomonadales"	"Xanthomonadaceae"	"Thermomonas"	NA
+"ASV1868"	"Bacteria"	"Firmicutes"	"Bacilli"	"Bacillales"	"Paenibacillaceae"	"Paenibacillus"	NA
+"ASV1931"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhizobiales"	"Rhizobiaceae"	"Pseudochrobactrum"	NA
+"ASV1975"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Sphingomonadales"	"Sphingomonadaceae"	"Sphingoaurantiacus"	NA
+"ASV1977"	"Bacteria"	"Patescibacteria"	"Saccharimonadia"	"Saccharimonadales"	"Candidatus Saccharibacteria bacterium GW2011_GWC2_44_17"	"Candidatus Saccharibacteria bacterium GW2011_GWC2_44_17"	NA
+"ASV1988"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Flavobacteriales"	"Weeksellaceae"	"Elizabethkingia"	NA
+"ASV1997"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Caulobacterales"	"Hyphomonadaceae"	"Hyphomonas"	NA
+"ASV2012"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Aquabacterium"	NA
+"ASV2023"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Sphingobacteriales"	"Sphingobacteriaceae"	"Nubsella"	NA
+"ASV2031"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Chitinophagales"	"Chitinophagaceae"	"Niabella"	NA
+"ASV2048"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Cytophagales"	"Spirosomaceae"	"Emticicia"	NA
+"ASV2055"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Neisseriaceae"	"Vitreoscilla"	NA
+"ASV2064"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Flavobacteriales"	"Weeksellaceae"	"Chryseobacterium"	NA
+"ASV2066"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Xanthomonadales"	"Rhodanobacteraceae"	"Tahibacter"	NA
+"ASV2076"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Neisseriaceae"	"Uruburuella"	NA
+"ASV2117"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Acetobacterales"	"Acetobacteraceae"	"Unassigned"	NA
+"ASV2140"	"Bacteria"	"Actinobacteria"	"Actinobacteria"	"PeM15"	"Unassigned"	"Unassigned"	NA
+"ASV2151"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rickettsiales"	"Rickettsiaceae"	"Unassigned"	NA
+"ASV2164"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhodobacterales"	"Rhodobacteraceae"	"Rhodobacter"	NA
+"ASV2220"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Achromobacter"	NA
+"ASV2229"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Flavobacteriales"	"Weeksellaceae"	"Soonwooa"	NA
+"ASV2233"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Sneathiellales"	"Sneathiellaceae"	"Ferrovibrio"	NA
+"ASV2256"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Sphingomonadales"	"Sphingomonadaceae"	"Sphingobium"	NA
+"ASV2271"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Caulobacterales"	"Caulobacteraceae"	"Brevundimonas"	NA
+"ASV2275"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhizobiales"	"Rhizobiaceae"	"Allorhizobium"	NA
+"ASV2278"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Enterobacteriales"	"Enterobacteriaceae"	"Serratia"	NA
+"ASV2310"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Cytophagales"	"Spirosomaceae"	"Dyadobacter"	NA
+"ASV2319"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Cytophagales"	"Spirosomaceae"	"Leadbetterella"	NA
+"ASV2329"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Cytophagales"	"Microscillaceae"	"Siphonobacter"	NA
+"ASV2350"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Nitrosomonadaceae"	"Nitrosomonas"	NA
+"ASV2351"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Chitinophagales"	"Chitinophagaceae"	"Unassigned"	NA
+"ASV2406"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Pseudomonadales"	"Pseudomonadaceae"	"Pseudomonas"	NA
+"ASV2413"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Chitinophagales"	"Chitinophagaceae"	"Sediminibacterium"	NA
+"ASV2466"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Enterobacteriales"	"Enterobacteriaceae"	"Klebsiella"	NA
+"ASV2477"	"Bacteria"	"Cyanobacteria"	"Sericytochromatia"	"uncultured Desulfuromonadaceae bacterium"	"uncultured Desulfuromonadaceae bacterium"	"uncultured Desulfuromonadaceae bacterium"	NA
+"ASV2493"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Chitinophagales"	"Chitinophagaceae"	"Haoranjiania"	NA
+"ASV2494"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Xanthomonadales"	"Xanthomonadaceae"	"Stenotrophomonas"	NA
+"ASV2524"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Pseudorhodoferax"	NA
+"ASV2526"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Chitinophagales"	"Saprospiraceae"	"OLB8"	NA
+"ASV2527"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Xanthomonadales"	"Xanthomonadaceae"	"Arenimonas"	NA
+"ASV2562"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Ralstonia"	NA
+"ASV2588"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Flavobacteriales"	"NS9 marine group"	"Unassigned"	NA
+"ASV2590"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhizobiales"	"Rhizobiaceae"	"Ochrobactrum"	NA
+"ASV2599"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Paracaedibacterales"	"Paracaedibacteraceae"	"Candidatus Paracaedibacter"	NA
+"ASV2613"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Ottowia"	NA
+"ASV2625"	"Bacteria"	"Proteobacteria"	"Deltaproteobacteria"	"Bdellovibrionales"	"Bacteriovoracaceae"	"Bacteriovorax"	NA
+"ASV2626"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Azospirillales"	"Azospirillaceae"	"Niveispirillum"	NA
+"ASV2629"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Brachymonas"	NA
+"ASV2643"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Caedibacterales"	"Caedibacteraceae"	"Candidatus Nucleicultrix"	NA
+"ASV2645"	"Bacteria"	"Chlamydiae"	"Chlamydiae"	"Chlamydiales"	"Parachlamydiaceae"	"Candidatus Protochlamydia"	NA
+"ASV2673"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Sphingobacteriales"	"Sphingobacteriaceae"	"Pseudopedobacter"	NA
+"ASV2689"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Parapusillimonas"	NA
+"ASV2697"	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Streptococcaceae"	"Lactococcus"	NA
+"ASV2773"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Legionellales"	"Legionellaceae"	"Legionella"	NA
+"ASV2786"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rickettsiales"	"SM2D12"	"Unassigned"	NA
+"ASV2789"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Bacteroidetes VC2.1 Bac22"	"Unassigned"	"Unassigned"	NA
+"ASV2797"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Betaproteobacteriales"	"Burkholderiaceae"	"Alicycliphilus"	NA
+"ASV2823"	"Bacteria"	"Chlamydiae"	"Chlamydiae"	"Chlamydiales"	"Parachlamydiaceae"	"Neochlamydia"	NA
+"ASV2862"	"Bacteria"	"Firmicutes"	"Bacilli"	"Bacillales"	"Paenibacillaceae"	"Brevibacillus"	NA
+"ASV2871"	"Bacteria"	"Verrucomicrobia"	"Verrucomicrobiae"	"Verrucomicrobiales"	"Verrucomicrobiaceae"	"Verrucomicrobium"	NA
+"ASV2879"	"Bacteria"	"Actinobacteria"	"Actinobacteria"	"Frankiales"	"Cryptosporangiaceae"	"Fodinicola"	NA
+"ASV2938"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Enterobacteriales"	"Enterobacteriaceae"	"Escherichia-Shigella"	NA
+"ASV2943"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Rikenellaceae"	"Unassigned"	NA
+"ASV2945"	"Bacteria"	"Proteobacteria"	"Deltaproteobacteria"	"Myxococcales"	"Polyangiaceae"	"Pajaroellobacter"	NA

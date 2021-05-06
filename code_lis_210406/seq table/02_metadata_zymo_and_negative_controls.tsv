@@ -1,0 +1,20 @@
+sample.id	Barcode.sequence	Reactor	Time	Run	Year	Type	Identity	PCR.Cycles	Description
+Samp30		P	zm	Run1	2019	Zymo_DNA	Control	25	Positive_controls
+Samp31		P	zm300	Run2	2019	Zymo_community	Control	25	Positive_controls
+Samp32		P	zm_direct	Run2	2019	Zymo_community	Control	25	Positive_controls
+Samp33		P	Zm-20	Run2	2019	Zymo_community	Control	25	Positive_controls
+Samp92		Neg	Ncl	Run2	2019	Chelex	Control	35	Negative_control
+Samp93		Neg	N28	Run2	2019	Neg	Control	35	Negative_control
+Samp94		Neg	N29	Run2	2019	Neg	Control	35	Negative_control
+Samp95		Neg	N22	Run2	2019	Neg	Control	35	Negative_control
+Samp96		Neg	N04	Run2	2019	Neg	Control	35	Negative_control
+Samp97		Neg	N05	Run2	2019	Neg	Control	35	Negative_control
+Samp98		Neg	N09	Run2	2019	Neg	Control	35	Negative_control
+Samp147		Neg	N11	Run2	2019	Neg	Control	35	Negative_control
+Samp148		Neg	N12	Run2	2019	Neg	Control	35	Negative_control
+Samp149		Neg	N17	Run2	2019	Neg	Control	35	Negative_control
+Samp150		Neg	N18	Run2	2019	Neg	Control	35	Negative_control
+Samp151		Neg	N19	Run2	2019	Neg	Control	35	Negative_control
+Samp152		Neg	N23	Run2	2019	Neg	Control	35	Negative_control
+Samp153		Neg	N26	Run2	2019	Neg	Control	35	Negative_control
+Samp169		Neg	N10	Run2	2019	Neg	Control	35	Negative_control

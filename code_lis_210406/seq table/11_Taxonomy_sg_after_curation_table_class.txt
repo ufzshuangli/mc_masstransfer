@@ -1,0 +1,27 @@
+""	"Kingdom"	"Phylum"	"Class"	"Order"	"Family"	"Genus"	"Species"
+"ASV0144"	"Bacteria"	"Verrucomicrobia"	"Verrucomicrobiae"	NA	NA	NA	NA
+"ASV0187"	"Bacteria"	"Actinobacteria"	"Coriobacteriia"	NA	NA	NA	NA
+"ASV0222"	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	NA	NA	NA	NA
+"ASV0274"	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	NA	NA	NA	NA
+"ASV0281"	"Bacteria"	"Firmicutes"	"Clostridia"	NA	NA	NA	NA
+"ASV0379"	"Bacteria"	"Cyanobacteria"	"Sericytochromatia"	NA	NA	NA	NA
+"ASV0498"	"Bacteria"	"Chloroflexi"	"Chloroflexia"	NA	NA	NA	NA
+"ASV0507"	"Bacteria"	"Fusobacteria"	"Fusobacteriia"	NA	NA	NA	NA
+"ASV0548"	"Bacteria"	"Deinococcus-Thermus"	"Deinococci"	NA	NA	NA	NA
+"ASV0582"	"Bacteria"	"WPS-2"	"hydrothermal vent metagenome"	NA	NA	NA	NA
+"ASV0621"	"Bacteria"	"Actinobacteria"	"Rubrobacteria"	NA	NA	NA	NA
+"ASV0643"	"Bacteria"	"Patescibacteria"	"Gracilibacteria"	NA	NA	NA	NA
+"ASV0672"	"Bacteria"	"Dependentiae"	"Babeliae"	NA	NA	NA	NA
+"ASV0945"	"Bacteria"	"Patescibacteria"	"Saccharimonadia"	NA	NA	NA	NA
+"ASV0952"	"Bacteria"	"Gemmatimonadetes"	"Gemmatimonadetes"	NA	NA	NA	NA
+"ASV1094"	"Bacteria"	"Proteobacteria"	"Deltaproteobacteria"	NA	NA	NA	NA
+"ASV1129"	"Bacteria"	"Acidobacteria"	"Blastocatellia (Subgroup 4)"	NA	NA	NA	NA
+"ASV1568"	"Archaea"	"Euryarchaeota"	"Methanobacteria"	NA	NA	NA	NA
+"ASV1580"	"Bacteria"	"Firmicutes"	"Bacilli"	NA	NA	NA	NA
+"ASV1593"	"Bacteria"	"Bacteroidetes"	"Bacteroidia"	NA	NA	NA	NA
+"ASV1858"	"Bacteria"	"Planctomycetes"	"Planctomycetacia"	NA	NA	NA	NA
+"ASV2001"	"Bacteria"	"Actinobacteria"	"Acidimicrobiia"	NA	NA	NA	NA
+"ASV2140"	"Bacteria"	"Actinobacteria"	"Actinobacteria"	NA	NA	NA	NA
+"ASV2152"	"Bacteria"	"Cyanobacteria"	"Oxyphotobacteria"	NA	NA	NA	NA
+"ASV2645"	"Bacteria"	"Chlamydiae"	"Chlamydiae"	NA	NA	NA	NA
+"ASV2825"	"Bacteria"	"Acidobacteria"	"Acidobacteriia"	NA	NA	NA	NA
